@@ -1,7 +1,6 @@
 # Instagram-Tools
 Instagram Tools in new [Instagram Private API's library](https://github.com/dilame/instagram-private-api) version.
 ## Features
-```
 * Like All Media on Timeline
 * Like All Media of Targeted User
 * Follow Followers of Targeted User (+Like and Comment/DM)
@@ -11,7 +10,6 @@ Instagram Tools in new [Instagram Private API's library](https://github.com/dila
 * Unfollow All Followed Users
 * Unfollow who Not Follow Back
 * Delete All Media
-```
 ## Usage
 ```
 git clone https://github.com/rifqihaidar/Instagram-Tools.git
@@ -39,4 +37,5 @@ fllbck dong kak
 * [Dmitry](https://github.com/dilame) for library
 * [Aldi Nugraha aka CCOCOT](https://github.com/aldinp16) (original author)
 * [I Putu Jaya Adi Pranata](https://github.com/officialputuid)
+* [Okky Alvianto](https://github.com/masokky)
 * All members of SGB TEAM
